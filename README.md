@@ -1,4 +1,4 @@
-# simple_shell (ISU CS352 - Operating Systems, 2020)
+# simple shell (ISU CS352 - Operating Systems, 2020)
 A C program that implements a simple shell/command-line interpreter. It allows users to execute commands, handle background and foreground processes, handle input/output redirection, and pipe commands together. 
 
 
